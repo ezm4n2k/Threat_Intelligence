@@ -1,0 +1,681 @@
+[
+  [
+    {
+      "time": "2023-12-13",
+      "title": "Rhysida Ransomware",
+      "excerpt": "A painful sting for Insomniac Games",
+      "href": "https://www.shadowstackre.com:443/analysis/rhysida",
+      "author": null,
+      "img_url": "https://images.squarespace-cdn.com/content/v1/649f1e808cf0e8773d3cca5c/1702444202649-13H6RB9ZO935YL57X6TD/Rhysida.jpg"
+    },
+    {
+      "time": "2023-12-06",
+      "title": "Qilin Ransomware",
+      "excerpt": "Soaring to new heights",
+      "href": "https://www.shadowstackre.com:443/analysis/qilin",
+      "author": null,
+      "img_url": "https://images.squarespace-cdn.com/content/v1/649f1e808cf0e8773d3cca5c/1701918220863-L2GGR5DKNTQL6UKM8HAU/QilinRansomware.jpg"
+    },
+    {
+      "time": "2023-11-26",
+      "title": "LostTrust Ransomware",
+      "excerpt": "Trust nothing",
+      "href": "https://www.shadowstackre.com:443/analysis/losttrust",
+      "author": null,
+      "img_url": "https://images.squarespace-cdn.com/content/v1/649f1e808cf0e8773d3cca5c/1701046276098-9BC52VCM3Z3YUHWHE6GF/LostTrust.jpg"
+    },
+    {
+      "time": "2023-10-12",
+      "title": "Good Day Ransomware",
+      "excerpt": "Ruining your morning",
+      "href": "https://www.shadowstackre.com:443/analysis/goodday",
+      "author": null,
+      "img_url": "https://images.squarespace-cdn.com/content/v1/649f1e808cf0e8773d3cca5c/1697156868503-ZN51XSJKPCCE5QQNYKNI/GoodDay.jpg"
+    },
+    {
+      "time": "2023-08-17",
+      "title": "Abyss Locker Ransomware",
+      "excerpt": "Strikes from the depths",
+      "href": "https://www.shadowstackre.com:443/analysis/abysslocker",
+      "author": null,
+      "img_url": "https://images.squarespace-cdn.com/content/v1/649f1e808cf0e8773d3cca5c/1692324209937-1VSHDCD2DQBOCCM5TEAE/AbyssLocker.jpg"
+    }
+  ],
+  [
+    {
+      "title": "Iran-linked APT33 targets Defense Industrial Base sector with FalseFont backdoor",
+      "excerpt": "Microsoft reports that the Iran-linked APT33 group is targeting defense contractors worldwide with FalseFont backdoor.\nMicrosoft says the APT33 (aka Peach Sandstorm, Holmium, Elfin, and Magic ...",
+      "authors": "Pierluigi Paganini",
+      "time": "December 25, 2023",
+      "href": "https://securityaffairs.com/156366/apt/apt33-falsefont-targets-defense-sector.html",
+      "img_url": "https://securityaffairs.com/wp-content/uploads/2015/03/iran-cyber-warfare.jpg"
+    },
+    {
+      "title": "Security Affairs newsletter Round 451 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "excerpt": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.Enjoy a new round of the weekly SecurityAf ...",
+      "authors": "Pierluigi Paganini",
+      "time": "December 25, 2023",
+      "href": "https://securityaffairs.com/156356/breaking-news/security-affairs-newsletter-round-451-by-pierluigi-paganini-international-edition.html",
+      "img_url": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png"
+    },
+    {
+      "title": "Europol and ENISA spotted 443 e-stores compromised with digital skimming",
+      "excerpt": "A joint law enforcement operation led by Europol and the ENISA, along with private security firms, identified 443 online shops compromised with digital skimming.\nEuropol and ENISA collaborated in ...",
+      "authors": "Pierluigi Paganini",
+      "time": "December 24, 2023",
+      "href": "https://securityaffairs.com/156340/security/europol-and-enisa-spotted-443-e-stores-compromised-with-digital-skimming.html",
+      "img_url": "https://securityaffairs.com/wp-content/uploads/2016/11/europol-terrorism-data-leak.jpg"
+    }
+  ],
+  [
+    {
+      "time": "2023-12-20T11:00:07+00:00",
+      "title": "Why Is an Australian Footballer Collecting My Passwords? The Various Ways Malicious JavaScript Can Steal Your Secrets",
+      "excerpt": null,
+      "href": "https://unit42.paloaltonetworks.com/malicious-javascript-steals-sensitive-data/",
+      "authors": [
+        "Billy Melicher",
+        "Nabeel Mohamed",
+        "Alex Starov"
+      ],
+      "img_url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2023/12/Malware-r3d2.png"
+    },
+    {
+      "time": "2023-12-15T23:00:28+00:00",
+      "title": "Toward Ending the Domain Wars: Early Detection of Malicious Stockpiled Domains",
+      "excerpt": null,
+      "href": "https://unit42.paloaltonetworks.com/detecting-malicious-stockpiled-domains/",
+      "authors": [
+        "Janos Szurdi",
+        "Shehroze Farooqi",
+        "Nabeel Mohamed"
+      ],
+      "img_url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2023/12/Unit42-blog-2by1-characters-r4d1-2020_Cyber-squatting-v3.png"
+    },
+    {
+      "time": "2023-12-07T14:00:35+00:00",
+      "title": "Fighting Ursa Aka APT28: Illuminating a Covert Campaign",
+      "excerpt": null,
+      "href": "https://unit42.paloaltonetworks.com/russian-apt-fighting-ursa-exploits-cve-2023-233397/",
+      "authors": [
+        "Unit 42"
+      ],
+      "img_url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2023/12/PA-Unit42-TAC-FightingURSA_-Landscape.jpg"
+    },
+    {
+      "time": "2023-12-01T11:00:17+00:00",
+      "title": "New Tool Set Found Used Against Organizations in the Middle East, Africa and the US",
+      "excerpt": null,
+      "href": "https://unit42.paloaltonetworks.com/new-toolset-targets-middle-east-africa-usa/",
+      "authors": [
+        "Chema Garcia"
+      ],
+      "img_url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2023/11/Malware-r3d3.png"
+    },
+    {
+      "time": "2023-11-30T23:00:04+00:00",
+      "title": "Exploring a Critical Risk in Google Workspace's Domain-Wide Delegation Feature",
+      "excerpt": null,
+      "href": "https://unit42.paloaltonetworks.com/critical-risk-in-google-workspace-delegation-feature/",
+      "authors": [
+        "Zohar Zigdon"
+      ],
+      "img_url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2023/11/Cloud-21-illustration_blue.png"
+    }
+  ],
+  [
+    {
+      "title": "EvilBamboo Targets Mobile Devices in Multi-year Campaign",
+      "url": "https://www.volexity.com/blog/2023/09/22/evilbamboo-targets-mobile-devices-in-multi-year-campaign/",
+      "time": "2023/09/22",
+      "excerpt": null,
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "title": "Charming Kitten Updates POWERSTAR with an InterPlanetary Twist",
+      "url": "https://www.volexity.com/blog/2023/06/28/charming-kitten-updates-powerstar-with-an-interplanetary-twist/",
+      "time": "2023/06/28",
+      "excerpt": null,
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "title": "3CX Supply Chain Compromise Leads to ICONIC Incident",
+      "url": "https://www.volexity.com/blog/2023/03/30/3cx-supply-chain-compromise-leads-to-iconic-incident/",
+      "time": "2023/03/30",
+      "excerpt": null,
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "title": "Using Memory Analysis to Detect EDR-Nullifying Malware",
+      "url": "https://www.volexity.com/blog/2023/03/07/using-memory-analysis-to-detect-edr-nullifying-malware/",
+      "time": "2023/03/07",
+      "excerpt": null,
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "title": "₿uyer ₿eware: Fake Cryptocurrency Applications Serving as Front for AppleJeus Malware",
+      "url": "https://www.volexity.com/blog/2022/12/01/buyer-beware-fake-cryptocurrency-applications-serving-as-front-for-applejeus-malware/",
+      "time": "2022/12/01",
+      "excerpt": null,
+      "authors": null,
+      "img_url": null
+    }
+  ],
+  [
+    {
+      "time": "Jan 10, 2023",
+      "title": "Heads up! Xdr33, A Variant Of CIA’s HIVE  Attack Kit Emerges",
+      "excerpt": "Overview\n\n\nOn Oct 21, 2022, 360Netlab's honeypot system captured a suspicious ELF file ee07a74d12c0bb3594965b51d0e45b6f, which propagated via F5 vulnerability with zero VT detection, our system observces that it communicates with IP 45.9.150.144 using SSL with forged Kaspersky certificates, this caught our attention. After further lookup, we confirmed",
+      "href": "https://blog.netlab.360.com/headsup_xdr33_variant_of_ciahive_emeerges/",
+      "authors": [
+        "Alex.Turing",
+        "Hui Wang"
+      ],
+      "img_url": null
+    },
+    {
+      "time": "Jan 9, 2023",
+      "title": "警惕：魔改后的CIA攻击套件Hive进入黑灰产领域",
+      "excerpt": "概述\n\n\n2022年10月21日，360Netlab的蜜罐系统捕获了一个通过F5漏洞传播，VT 0检测的可疑ELF文件ee07a74d12c0bb3594965b51d0e45b6f，流量监控系统提示它和IP45.9.150.144产生了SSL流量，而且双方都使用了伪造的Kaspersky证书，这引起了我们的关注。经过分析，我们确认它由CIA被泄露的Hive项目server源码改编而来。这是我们首次捕获到在野的CIA HIVE攻击套件变种，基于其内嵌Bot端证书的CN=xdr33， 我们内部将其命名为xdr33。关于CIA的Hive项目，互联网中有大量的源码分析的文章，读者可自行参阅，此处不再展开。\n\n\n概括来说，xdr33是一个脱胎于CIA Hive项目的后门木马，主要目的是收集敏感信息，为后续的入侵提供立足点。从网络通信来看，xdr33使用XTEA或AES算法对原始流量进行加密，并采用开启了Client-Certificate Authentication模式的SSL对流量做进一步的保护；从功能来说，主要有beacon，trigger两大任务，其中beacon是周期性向硬编码的Be",
+      "href": "https://blog.netlab.360.com/warning-hive-variant-xdr33-is-coming_cn/",
+      "authors": [
+        "Alex.Turing",
+        "Hui Wang"
+      ],
+      "img_url": null
+    },
+    {
+      "time": "Dec 7, 2022",
+      "title": "快讯：使用21个漏洞传播的DDoS家族WSzero已经发展到第4个版本",
+      "excerpt": "概述\n\n\n近期，我们的BotMon系统连续捕获到一个由Go编写的DDoS类型的僵尸网络家族，它用于DDoS攻击，使用了包括SSH/Telnet弱口令在内的多达22种传播方式。短时间内出现了4个不同的版本，有鉴于此，我们觉得该家族未来很可能继续活跃，值得警惕。下面从传播、样本和跟踪角度分别介绍。\n\n\n\n传播分析\n\n\n除了Telnet/SSH弱口令，我们观察到wszero还使用了如下21个漏洞进行传播：\n\n\n\n\n\nVULNERABILITY\nAFFECTED\n\n\n\n\nCVE_2014_08361\nRealtek SDK\n\n\nCVE_2017_17106\nZivif Webcams\n\n\nCVE_2017_17215\nHuawei HG532\n\n\nCVE_2018_12613\nphpMyAdmin 4.8.x before 4.8.2\n\n\nCVE_2020_10987\nTenda AC15 AC1900",
+      "href": "https://blog.netlab.360.com/new-ddos-botnet-wszeor/",
+      "authors": [
+        "Hui Wang",
+        "Alex.Turing"
+      ],
+      "img_url": null
+    },
+    {
+      "time": "Nov 3, 2022",
+      "title": "P2P Botnets: Review - Status - Continuous Monitoring",
+      "excerpt": "Origins\n\n\nP2P networks are more scalable and robust than traditional C/S structures, and these advantages were recognized by the botnet authors early on and used in their botnets. In terms of time, Storm, which appeared in 2007, can be considered the progenitor of this area, when botnet threats were",
+      "href": "https://blog.netlab.360.com/p2p-botnets-review-status-continuous-monitoring/",
+      "authors": [
+        "360Netlab",
+        "RootKiter",
+        "LIU Ya"
+      ],
+      "img_url": null
+    },
+    {
+      "time": "Nov 2, 2022",
+      "title": "P2P 僵尸网络：回顾·现状·持续监测",
+      "excerpt": "缘起\n\n\nP2P结构的网络比传统的C/S结构具有更好的可扩展性和健壮性，这些优点很早就为botnet的作者所认识到并被用到他们的僵尸网络中。从时间上看，2007年出现的Storm可以算是这方面的鼻祖，那时botnet这种网络威胁刚为大众所知。Storm之后，陆续又有Karen、ZeroAccess、GameOver、Hijime、mozi等20来种P2P botnet先后出现，它们在技术上各有特点，共同点就是规模大、防御难度大，想让它们彻底消失比较困难，比如Mozi在作者已经明确放弃甚至被抓几年之后还在活跃，可谓“百足之虫死而不僵”。\n\n\n早期的P2P botnet主要针对Windows机器，比如Storm、ZeroAccess以及GameOver感染的都是Windows操作系统。2016年Mirai出现之后，网络上那些大量存在而又缺乏防御的Linux IoT设备开始成为许多botnet的目标，Hijime、mozi、pink等针对Linux设备的P2P botnet陆续出现。\n\n\n由于P2P网络“无中心”的特点，使用传统的手段来评估其规模有点困难。为了解决这个问题，安全研究人员另辟蹊",
+      "href": "https://blog.netlab.360.com/p2p-botnet-monitor/",
+      "authors": [
+        "360Netlab",
+        "RootKiter",
+        "LIU Ya"
+      ],
+      "img_url": null
+    }
+  ],
+  [
+    {
+      "time": "2023/12/22",
+      "title": "Catching OpenSSL misuse using CodeQL",
+      "excerpt": null,
+      "href": "https://blog.trailofbits.com/2023/12/22/catching-openssl-misuse-using-codeql/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": "2023/12/20",
+      "title": "Summer interns 2023 recap",
+      "excerpt": null,
+      "href": "https://blog.trailofbits.com/2023/12/20/summer-associates-2023-recap/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": "2023/12/18",
+      "title": "A trail of flipping bits",
+      "excerpt": null,
+      "href": "https://blog.trailofbits.com/2023/12/18/a-trail-of-flipping-bits/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": "2023/12/14",
+      "title": "DARPA’s AI Cyber Challenge: We’re In!",
+      "excerpt": null,
+      "href": "https://blog.trailofbits.com/2023/12/14/darpas-ai-cyber-challenge-were-in/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": "2023/12/11",
+      "title": "Say hello to the next chapter of the Testing Handbook!",
+      "excerpt": null,
+      "href": "https://blog.trailofbits.com/2023/12/11/say-hello-to-the-next-chapter-of-the-testing-handbook/",
+      "authors": null,
+      "img_url": null
+    }
+  ],
+  [
+    {
+      "time": "December 14, 2023",
+      "title": "TSUBAME Report Overflow (Jul-Sep 2023)",
+      "excerpt": "This TSUBAME Report Overflow series discuss monitoring trends of overseas TSUBAME sensors and other activities which the Internet Threat Monitoring Quarterly Reports does not include. This article covers the monitoring results for the period of July to September 2023. The scan trends observed with TSUBAME sensors in Japan are presented in graphs here . Suspicious packets sent from routers sold by a Japanese manufacturer Focus on routers sold by a...\r\n        \nRead more",
+      "href": "https://blogs.jpcert.or.jp/en/2023/12/tsubame_overflow_2023-07-09.html",
+      "authors": "鹿野 恵祐 (Keisuke Shikano)",
+      "img_url": "https://blogs.jpcert.or.jp/en/.assets/thumbnail/%E3%83%AD%E3%82%B4-480wi.jpg"
+    },
+    {
+      "time": "November  7, 2023",
+      "title": "Credential Theft and Domain Name Hijacking through Phishing Sites",
+      "excerpt": "In early July 2023, JPCERT/CC confirmed a case of domain hijacking in which a domain used in Japan was unauthorizedly transferred to another registrar. This blog post describes the attack case. Attack overview Figure 1 shows the attack flow. The attacker first prepared a phishing site, which pretended to be a registrar on search site advertisements. Figure 1: the attack flow An attacker can steal account information and password (hereafter...\r\n        \nRead more",
+      "href": "https://blogs.jpcert.or.jp/en/2023/11/credential-theft-and-domain-name-hijacking-through-phishing-sites.html",
+      "authors": "鹿野 恵祐 (Keisuke Shikano)",
+      "img_url": "https://blogs.jpcert.or.jp/en/.assets/thumbnail/202310_domain_hijacking2_en-480wi.png"
+    },
+    {
+      "time": "September 26, 2023",
+      "title": "TSUBAME Report Overflow (Apr-Jun 2023)",
+      "excerpt": "This TSUBAME Report Overflow series discuss monitoring trends of overseas TSUBAME sensors and other activities which the Internet Threat Monitoring Quarterly Reports does not include. This article covers the monitoring results for the period of April to June 2023. The scan trends observed with TSUBAME sensors in Japan are presented in graphs here. Difference of observed packets in Japan and overseas sent from Japan Along with the renewal of the...\r\n        \nRead more",
+      "href": "https://blogs.jpcert.or.jp/en/2023/09/tsubame_overflow_2023-04-06.html",
+      "authors": "鹿野 恵祐 (Keisuke Shikano)",
+      "img_url": "https://blogs.jpcert.or.jp/en/.assets/thumbnail/%E3%83%AD%E3%82%B4-480wi.jpg"
+    },
+    {
+      "time": "August 28, 2023",
+      "title": "MalDoc in PDF - Detection bypass by embedding a malicious Word file into a PDF file –",
+      "excerpt": "JPCERT/CC has confirmed that a new technique was used in an attack that occurred in July, which bypasses detection by embedding a malicious Word file into a PDF file. This blog article calls the technique “MalDoc in PDF” hereafter and explains the details of and countermeasures against it. Overview of MalDoc in PDF A file created with MalDoc in PDF can be opened in Word even though it has magic...\r\n        \nRead more",
+      "href": "https://blogs.jpcert.or.jp/en/2023/08/maldocinpdf.html",
+      "authors": "鹿野 恵祐 (Keisuke Shikano)",
+      "img_url": "https://blogs.jpcert.or.jp/en/.assets/thumbnail/maldocpdf-fig1-480wi.png"
+    },
+    {
+      "time": "August  9, 2023",
+      "title": "YAMA-Yet Another Memory Analyzer for malware detection",
+      "excerpt": "As attacks become more fileless and malware gets more obfuscated, it is getting more difficult to determine whether there is a malicious intent from a file by itself. For this reason, malware detection methods that utilize sandboxes and AI, as well as technologies that detect suspicious behavior after malware infection, such as EDR, have now become common. Even so, malware that antivirus software cannot detect is often found during actual...\r\n        \nRead more",
+      "href": "https://blogs.jpcert.or.jp/en/2023/08/yama.html",
+      "authors": "鹿野 恵祐 (Keisuke Shikano)",
+      "img_url": "https://blogs.jpcert.or.jp/en/.assets/thumbnail/yama-480wi.png"
+    }
+  ],
+  [
+    {
+      "time": null,
+      "title": "How At-Bay Enhances Cyber Insurance with Censys",
+      "excerpt": null,
+      "href": "https://censys.com/how-at-bay-enhances-cyber-insurance-with-censys/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": null,
+      "title": "The Spectrum of Risk: Where Engineers and Executives Can Come Together",
+      "excerpt": null,
+      "href": "https://censys.com/the-spectrum-of-risk-where-engineers-and-executives-can-come-together/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": null,
+      "title": "CVE-2023-42793: JetBrains TeamCity RCE Vulnerability",
+      "excerpt": null,
+      "href": "https://censys.com/cve-2023-42793-jetbrains-teamcity/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": null,
+      "title": "The Perils of False Positives",
+      "excerpt": null,
+      "href": "https://censys.com/the-perils-of-false-positives/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": null,
+      "title": "How to Find Hacked Web Servers with Censys Search",
+      "excerpt": null,
+      "href": "https://censys.com/how-to-find-hacked-web-servers-with-censys-search/",
+      "authors": null,
+      "img_url": null
+    }
+  ],
+  [
+    {
+      "time": "24 December 2023",
+      "title": "Weekly Update 379",
+      "excerpt": "It's that time of the year again, time to head from the heat to the cold as we jump on the big plane(s) back to Europe. The next 4 weekly updates will all be from places of varying degrees colder than home, most of them done with Scott Helme too so they'll be a little different to usual. For now, here's a pretty casual Christmas edition, see you next week from the other side 🙂\nReferences\n1. Sponsored by: Unpatched devices keeping you up at night? Kolide can get your entire fleet updated...\n\n",
+      "href": "https://troyhunt/weekly-update-379/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": "16 December 2023",
+      "title": "Weekly Update 378",
+      "excerpt": "I'd say the balloon fetish segment was the highlight of this week's video. No, seriously, it's a moment of levity in an otherwise often serious industry. It's still a bunch of personal info exposed publicly and that suchs regardless of the nature of the site, but let's be honest, the subject matter did make for some humorous comments 🤣\nReferences\n1. Sponsored by: Identity theft isn’t cheap. Secure your family with Aura the #1 rated proactive protection that helps keep you safe online. G...\n\n",
+      "href": "https://troyhunt/weekly-update-378/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": "08 December 2023",
+      "title": "Weekly Update 377",
+      "excerpt": "10 years later... 🤯 Seriously, how did this thing turn into this?! It was the humblest of beginning with absolutely no expectations of anything, and now it's, well, massive! I'm a bit lost for words if I'm honest, I hope the chat with Charlotte adds some candour to this week's update, she's seen this thing grow since before its first birthday, through the hardest times and the best times and now lives and breathes HIBP day in day out with me. I hope you enjoy this video, and we'd both love to h...\n\n",
+      "href": "https://troyhunt/weekly-update-377/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": "04 December 2023",
+      "title": "A Decade of Have I Been Pwned",
+      "excerpt": "A decade ago to the day, I published a tweet launching what would surely become yet another pet project that scratched an itch, was kinda useful to a few people but other than that, would shortly fade away into the same obscurity as all the other ones I'd launched over the previous couple of decades:\nIt's alive! \"Have I been pwned?\" by @troyhunt is now up and running. Search for your account across multiple breaches http://t.co/U0QyHZxP6k\n— Have I Been Pwned (@haveibeenpwned) December 4, 201...\n\n",
+      "href": "https://troyhunt/a-decade-of-have-i-been-pwned/",
+      "authors": null,
+      "img_url": null
+    },
+    {
+      "time": "03 December 2023",
+      "title": "Weekly Update 376",
+      "excerpt": "I'm irrationally excited about the new Prusa 3D printer on order, and I think that's mostly to do with planning for the NDC Oslo talk I plan to do with Elle, my 11-year old daughter. I'm all for getting the kids exposure not just to tech, but also to being able to talk to others about tech and involving them in conference talks since a young age has been a big part of that. But what I'm especially excited about is that this won't just be an \"aw, isn't it cute seeing kids talk at a conference\" ki...\n\n",
+      "href": "https://troyhunt/weekly-update-376/",
+      "authors": null,
+      "img_url": null
+    }
+  ],
+  [
+    {
+      "time": "2023-12-11T13:32:02+01:00",
+      "title": "Mustang Panda’s PlugX new variant targetting Taiwanese government and diplomats",
+      "excerpt": "The Lab52 team has analysed a cyber campaign in which attackers deploy a new variant of the PlugX malware. Both the infection chain and the various artefacts used in the cyberattack share multiple similarities with the SmugX campaign, attributed to threat actors Red Delta and Mustang Panda, allegedly linked to the Chinese government. This time, […]",
+      "href": "https://lab52.io/blog/mustang-pandas-plugx-new-variant-targetting-taiwanese-government-and-diplomats/",
+      "authors": "3722304989 and Arubaro",
+      "img_url": "https://lab52.io/blog/wp-content/uploads/2023/12/mustang2-600x400.png"
+    },
+    {
+      "time": "2023-07-12T16:35:00+02:00",
+      "title": "New invitation from APT29 to use CCleaner",
+      "excerpt": "Last month of May we were talking about the new APT29 campaign that we called “Information”. Recently, just a week ago, an unknown actor used similar techniques to APT29. This time APT29 is once again the focus after new techniques were identified in their operations. This post details the new techniques observed, in particular: SVG […]",
+      "href": "https://lab52.io/blog/2344-2/",
+      "authors": "Er1c_C",
+      "img_url": "https://lab52.io/blog/wp-content/uploads/2023/07/Image20230712114555-600x400.jpg"
+    },
+    {
+      "time": "2023-07-07T13:31:40+02:00",
+      "title": "Beyond appearances: unknown actor using APT29’s TTP against Chinese users",
+      "excerpt": "Introduction Lab52 has detected a different maldoc samples of a potential malicious campaign. The initial access is through a Chinese phishing.  The maldoc seems to be a campaign against Chinese speaking users as the content of the maldoc is written in Chinese. The social engineering technique applied into the maldoc’s content is to pretend to […]",
+      "href": "https://lab52.io/blog/beyond-appearances-unknown-actor-using-apt29s-ttp-against-chinese-users/",
+      "authors": "Dex",
+      "img_url": "https://lab52.io/blog/wp-content/uploads/2023/07/CV-maldoc-568x400.png"
+    },
+    {
+      "time": "2023-06-08T18:39:29+02:00",
+      "title": "The Chinese trap",
+      "excerpt": "Russia carried out on February 24, 2022 an invasion that few anticipated and that neither they nor Western states have found it satisfactory for their interests. There is only one actor who is benefiting from Putin’s risky move, and this is China. Also, the invasion of Ukraine has started a succession of events, fundamentally at […]",
+      "href": "https://lab52.io/blog/the-chinese-trap/",
+      "authors": "Dex",
+      "img_url": "https://lab52.io/blog/wp-content/uploads/2023/06/diagram-600x400.jpg"
+    },
+    {
+      "time": "2023-05-25T16:57:35+02:00",
+      "title": "Quarterly Threat Report Q1 2023",
+      "excerpt": "During the first quarter of 2023, the Lab52 team has conducted an in-depth analysis of the threats that have been active during the period, focusing on information from both public and private sources, as well as studying the geopolitical context in order to anticipate potential campaigns. Below is the report for the quarter, which includes […]",
+      "href": "https://lab52.io/blog/quarterly-threat-report-q1-2023/",
+      "authors": "Dex",
+      "img_url": "https://lab52.io/blog/wp-content/uploads/2023/05/image-36-600x400.png"
+    }
+  ],
+  [
+    {
+      "time": null,
+      "title": "Gift card scams you need to be aware of this holiday season",
+      "excerpt": "Gift card scams are popular all year round, but the holiday season is a\nparticularly opportune moment for scammers to strike unwary consumers.\n\nMore recently, the Better Business Bureau and Federal Trade Commission have been\nwarning individuals about an increase in gift card fraud as cybercrooks continue\nto line their pockets and harvest personal information amid the Christmas\nseason.\n\nHow gift card scams work\n\n\nGift card scams can involve anything from physical in-store tampering to fake\nwebsit",
+      "href": "https://www.bitdefender.com//blog/hotforsecurity/gift-card-scams-you-need-to-be-aware-of-this-holiday-season/",
+      "authors": null,
+      "img_url": "https://blogapp.bitdefender.com/hotforsecurity/content/images/size/w300/2023/12/pexels-sora-shimazaki-5926430.jpg"
+    },
+    {
+      "time": null,
+      "title": "Navigating the Hidden Dangers of Cryptojacking",
+      "excerpt": "As the digital landscape evolves, so do the methods of cybercrime. One such\ninsidious method gaining momentum is cryptojacking\n[https://www.bitdefender.com/blog/hotforsecurity/cryptojacking-explained-everything-you-need-to-know-about-silent-digital-robberies/]\n. This cyberthreat involves hijacking other people’s computing resources to mine\ncryptocurrency like Bitcoin and Monero without their knowledge.\n\nUntraceable Transactions\nAt the heart of cryptojacking lies the allure of untraceable transac",
+      "href": "https://www.bitdefender.com//blog/hotforsecurity/navigating-the-hidden-dangers-of-cryptojacking/",
+      "authors": null,
+      "img_url": "https://blogapp.bitdefender.com/hotforsecurity/content/images/size/w300/2023/12/hacker-gbb625524e_1920.jpg"
+    },
+    {
+      "time": null,
+      "title": "Attackers Are Exploiting a New Zero-Day Flaw in Chrome. Patch Now!",
+      "excerpt": "Google wants desktop and mobile Chrome users to deploy a security fix for a\nvulnerability known to be exploited by threat actors in the wild.\n\nA heap buffer overflow in Chrome’s real-time communication module has been\nexploited by malicious actors to target vulnerable users, the web giant said in\nan advisory yesterday.\n\nTracked as CVE-2023-7024, this WebRTC bug has enabled targeted attacks in the\nwild, as found by Clément Lecigne and Vlad Stolyarov of Google's Threat Analysis\nGroup the day prior",
+      "href": "https://www.bitdefender.com//blog/hotforsecurity/attackers-are-exploiting-a-new-zero-day-flaw-in-chrome-patch-now/",
+      "authors": null,
+      "img_url": "https://blogapp.bitdefender.com/hotforsecurity/content/images/size/w300/2023/12/glenn-carstens-peters-npxXWgQ33ZQ-unsplash-1.jpg"
+    },
+    {
+      "time": null,
+      "title": "German Authorities Seize Kingdom Market Dark Web Marketplace",
+      "excerpt": "International Sting: The Fall of Kingdom Market\nGerman authorities and law enforcement from the US, Ukraine, Moldova and\nSwitzerland have seized the infamous Kingdom Market cybercrime marketplace in a\njoint operation.\n\nThe Dark Web marketplace facilitated the sale of illicit goods, including fake\ngovernment IDs, drugs and hacking tools, to its visitors. Kingdom Market’s\nwebsite has been online since March 2021 and has been accessed by visitors\nworldwide.\n\nMembers of the shady marketplace peddled",
+      "href": "https://www.bitdefender.com//blog/hotforsecurity/german-authorities-seize-kingdom-market-dark-web-marketplace/",
+      "authors": null,
+      "img_url": "https://blogapp.bitdefender.com/hotforsecurity/content/images/size/w300/2023/12/ecommerce-3546296.jpg"
+    }
+  ],
+  [
+    {
+      "time": "2023-12-21T07:37:12-05:00",
+      "title": "Dreaming of a digital Christmas",
+      "excerpt": "Can’t get to the stores in time to buy gifts for friends and family? Go digital!",
+      "href": "https://www.kaspersky.com/blog/christmas-and-new-year-digital-gifts/50098/",
+      "authors": null,
+      "img_url": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2023/12/21073304/christmas-and-new-year-digital-gifts-featured-700x460.jpg"
+    },
+    {
+      "time": "2023-12-20T12:45:27-05:00",
+      "title": "How reliable is biometric security on laptops?",
+      "excerpt": "Researchers used a hardware hack to bypass Windows Hello biometric authentication on three different devices. Can you trust this login method?",
+      "href": "https://www.kaspersky.com/blog/securing-biometrics-windows-hello/50094/",
+      "authors": null,
+      "img_url": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2023/12/20124251/securing-biometrics-windows-hello-featured-700x460.jpg"
+    },
+    {
+      "time": "2023-12-15T10:59:36-05:00",
+      "title": "Dangerous browser extensions",
+      "excerpt": "How malicious extensions steal cryptocurrency, hijack accounts in games and social networks, manipulate search results, and display intrusive ads.",
+      "href": "https://www.kaspersky.com/blog/dangerous-browser-extensions-2023/50059/",
+      "authors": null,
+      "img_url": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2023/12/15102428/dangerous-browser-extensions-2023-featured-700x460.jpg"
+    },
+    {
+      "time": "2023-12-13T13:19:55-05:00",
+      "title": "Money for Nothing",
+      "excerpt": "During the pre-holiday period, attackers are sending invoices to companies for the delivery of non-existent documents.",
+      "href": "https://www.kaspersky.com/blog/christmas-season-invoice-scam/50050/",
+      "authors": null,
+      "img_url": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2023/12/13125403/christmas-season-invoice-scam-featured-700x460.jpg"
+    },
+    {
+      "time": "2023-12-12T12:45:40-05:00",
+      "title": "How cybercriminals disguise URLs",
+      "excerpt": "Methods used by attackers to redirect victims to malicious and phishing sites from seemingly safe URLs.",
+      "href": "https://www.kaspersky.com/blog/malicious-redirect-methods/50045/",
+      "authors": null,
+      "img_url": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2023/12/12123140/malicious-redirect-methods-featured-700x460.jpg"
+    }
+  ],
+  [
+    {
+      "time": "December 25, 2023",
+      "title": "A week in security (December 18 – December 24)",
+      "excerpt": "A list of topics we covered in the week of December 18 to December 24 of 2023",
+      "href": "https://www.malwarebytes.com/blog/news/2023/12/a-week-in-security-december-18-december-24",
+      "authors": "Malwarebytes",
+      "img_url": null
+    },
+    {
+      "time": "December 21, 2023",
+      "title": "Comcast’s Xfinity breached by Citrix Bleed; 36 million customer’s data accessed",
+      "excerpt": "Xfinity has notified customers that due to exploitation of the Citrix Bleed vulnerability, attackers were able to access personal data of almost 36 million customers.",
+      "href": "https://www.malwarebytes.com/blog/news/2023/12/comcasts-xfinity-breached-by-citrix-bleed-36-million-customers-data-accessed",
+      "authors": "Pieter Arntz",
+      "img_url": null
+    },
+    {
+      "time": "December 21, 2023",
+      "title": "How does ThreatDown Vulnerability Assessment and Patch Management work?",
+      "excerpt": "Dive into the inner workings of ThreatDown Vulnerability Assessment and Patch Management.",
+      "href": "https://www.malwarebytes.com/blog/business/2023/12/how-does-threatdown-vulnerability-assessment-and-patch-management-work",
+      "authors": "Bill Cozens",
+      "img_url": null
+    },
+    {
+      "time": "December 21, 2023",
+      "title": "How Outlook notification sounds can lead to zero-click exploits",
+      "excerpt": "A researcher found two Microsoft vulnerabilities which could be combined to achieve zero-click remote code execution.",
+      "href": "https://www.malwarebytes.com/blog/news/2023/12/how-outlook-notification-sounds-can-lead-to-zero-click-exploits",
+      "authors": "Pieter Arntz",
+      "img_url": null
+    },
+    {
+      "time": "December 21, 2023",
+      "title": "Update Chrome now! Emergency update patches zero-day",
+      "excerpt": "Google has issued an emergency update for Chrome that fixes an actively exploited zero-day vulnerability in the WebRTC component.",
+      "href": "https://www.malwarebytes.com/blog/news/2023/12/update-chrome-now-emergency-update-patches-zero-day",
+      "authors": "Pieter Arntz",
+      "img_url": null
+    }
+  ],
+  [
+    {
+      "time": "Dec 14, 2023",
+      "title": "The Defender's Advantage Cyber Snapshot, Issue 5 — Insiders, Applications, and Mitigating Risk",
+      "excerpt": "Read more about The Defender's Advantage Cyber Snapshot, Issue 5 — Insiders, Applications, and Mitigating Risk",
+      "href": "https://www.mandiant.com/resources/blog/cyber-snapshot-issue-five",
+      "authors": null,
+      "img_url": "https://www.mandiant.com/sites/default/files/2023-01/blog-thumb.jpg"
+    },
+    {
+      "time": "Dec 14, 2023",
+      "title": "Opening a Can of Whoop Ads: Detecting and Disrupting a Malvertising Campaign Distributing Backdoors",
+      "excerpt": "Read more about Opening a Can of Whoop Ads: Detecting and Disrupting a Malvertising Campaign Distributing Backdoors",
+      "href": "https://www.mandiant.com/resources/blog/detecting-disrupting-malvertising-backdoors",
+      "authors": null,
+      "img_url": "https://www.mandiant.com/sites/default/files/2023-01/blog-thumb.jpg"
+    },
+    {
+      "time": "Dec 13, 2023",
+      "title": "FLOSS for Gophers and Crabs: Extracting Strings from Go and Rust Executables",
+      "excerpt": "Read more about FLOSS for Gophers and Crabs: Extracting Strings from Go and Rust Executables",
+      "href": "https://www.mandiant.com/resources/blog/extracting-strings-go-rust-executables",
+      "authors": null,
+      "img_url": "https://www.mandiant.com/sites/default/files/2023-01/blog-thumb.jpg"
+    },
+    {
+      "time": "Nov 30, 2023",
+      "title": "Improving FLARE’s Malware Analysis Tools at Google Summer of Code 2023",
+      "excerpt": "Read more about Improving FLARE’s Malware Analysis Tools at Google Summer of Code 2023",
+      "href": "https://www.mandiant.com/resources/blog/flare-tools-google-summer-of-code-2023",
+      "authors": null,
+      "img_url": "https://www.mandiant.com/sites/default/files/2023-01/blog-thumb.jpg"
+    },
+    {
+      "time": "Nov 16, 2023",
+      "title": "Insider Threat: Hunting and Detecting",
+      "excerpt": "Read more about Insider Threat: Hunting and Detecting",
+      "href": "https://www.mandiant.com/resources/blog/insider-threat-hunting-detecting",
+      "authors": null,
+      "img_url": "https://www.mandiant.com/sites/default/files/2023-01/blog-thumb.jpg"
+    }
+  ],
+  [
+    {
+      "time": "2023-12-21",
+      "title": "2024 Cyber Threat Landscape Forecast ",
+      "excerpt": null,
+      "href": "https://www.resecurity.com/blog/article/2024-cyber-threat-landscape-forecast",
+      "authors": null,
+      "img_url": "https://www.resecurity.com/uploads/post/234/234.jpg?ecc97dcf4135b2571884f39b185e2fc1"
+    },
+    {
+      "time": "2023-12-18",
+      "title": "Cybercriminals Impersonate UAE Federal Authority for Identity and Citizenship on the Peak of Holidays Season ",
+      "excerpt": null,
+      "href": "https://www.resecurity.com/blog/article/cybercriminals-impersonate-uae-federal-authority-for-identity-and-citizenship-on-the-peak-of-holidays-season",
+      "authors": null,
+      "img_url": "https://www.resecurity.com/uploads/post/233/233.jpg?9f1fa6ff043933597191b6dceb95730e"
+    },
+    {
+      "time": "2023-12-15",
+      "title": "Exposing the Cyber-Extortion Trinity - BianLian, White Rabbit, and Mario Ransomware Gangs Spotted in a Joint Campaign",
+      "excerpt": null,
+      "href": "https://www.resecurity.com/blog/article/Exposing-Cyber-Extortion-Trinity-BianLian-White-Rabbit-Mario-Ransomware-Gangs-Spotted-Joint-Campaign",
+      "authors": null,
+      "img_url": "https://www.resecurity.com/uploads/post/232/232.jpg?2265cecb8d9fcc9d091d2e59bcd4d22b"
+    },
+    {
+      "time": "2023-12-14",
+      "title": "Hunting Genetics Data - Cyberespionage In The Context Of Geopolitical Conflicts",
+      "excerpt": null,
+      "href": "https://www.resecurity.com/blog/article/hunting-genetics-data-cyberespionage-in-the-context-of-geopolitical-conflicts",
+      "authors": null,
+      "img_url": "https://www.resecurity.com/uploads/post/231/231.jpg?5ae867268924ec24ef30b3f33a1954f3"
+    },
+    {
+      "time": "2023-11-28",
+      "title": "ICBC Ransomware Attack Strikes at the Heart of the Global Financial Order - LockBit on a Roll",
+      "excerpt": null,
+      "href": "https://www.resecurity.com/blog/article/icbc-ransomware-attack-strikes-at-the-heart-of-the-global-financial-order-lockbit-on-a-roll",
+      "authors": null,
+      "img_url": "https://www.resecurity.com/uploads/post/230/230.jpg?93083b3f306b2e908bf75e67e1a0b82b"
+    }
+  ],
+  [
+    {
+      "time": "November 28, 2023",
+      "title": "Unveiling the Persisting Threat: Iranian Mobile Banking Malware Campaign Extends Its Reach",
+      "excerpt": "Research by Aazim Bill SE Yaswant and Vishnu Pratapagiri In July 2023, it was discovered that  an Android mobile campaign, which consisted of banking trojans, was targeting major Iranian banks. Zimperium’s research team recently found that the campaign not only remains active but also extended its capabilities. These newly found samples are completely […]\n\nRead more",
+      "href": "https://www.zimperium.com/blog/unveiling-the-persisting-threat-iranian-mobile-banking-malware-campaign-extends-its-reach/",
+      "authors": "Aazim Yaswant",
+      "img_url": null
+    },
+    {
+      "time": "November 14, 2023",
+      "title": "Addressing NIS2 Requirements: Why it’s Time to Get Ready Now",
+      "excerpt": "Complying with the NIS2 directive will represent a significant, broad-based effort for security teams, and strengthening the security of mobile devices and mobile apps will be a key part of those efforts.\n\nRead more",
+      "href": "https://www.zimperium.com/blog/addressing-nis2-requirements-why-its-time-to-get-ready-now/",
+      "authors": "Monique Becenti",
+      "img_url": null
+    },
+    {
+      "time": "November 2, 2023",
+      "title": "5 Key Principles for Securing Today’s Mobile-First Businesses",
+      "excerpt": "With the rise of the mobile-first business come unique cybersecurity challenges. Learn the five principles for securing your mobile-first business.\n\nRead more",
+      "href": "https://www.zimperium.com/blog/securing-the-mobile-first-business/",
+      "authors": "Monique Becenti",
+      "img_url": null
+    },
+    {
+      "time": "November 1, 2023",
+      "title": "Leveraging NIST Standards to Streamline Your Mobile-First Security Strategy",
+      "excerpt": "This webinar teaches how cybersecurity professionals rely on resources, such as NIST standards, to develop their mobile device security approach.\n\nRead more",
+      "href": "https://www.zimperium.com/blog/leveraging-nist-standards-to-streamline-mobile-first-security-strategy/",
+      "authors": "Monique Becenti",
+      "img_url": null
+    },
+    {
+      "time": "October 25, 2023",
+      "title": "Keep Residents’ Mobile Devices Safe with Secure Boston",
+      "excerpt": "Secure Boston keeps Boston residents’ mobile devices safe with Wi-Fi network alerts, Android app safety, system tampering & phishing detection, and more.\n\nRead more",
+      "href": "https://www.zimperium.com/blog/boston-secure-keeps-mobile-devices-safe/",
+      "authors": "Monique Becenti",
+      "img_url": null
+    }
+  ]
+]
